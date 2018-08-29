@@ -1,0 +1,6 @@
+---
+applications:
+- memory: "512M"
+  timeout: "60"
+  name: "GDay"
+  path: "/home/dtredinnick/build/gday/GDay_1.0.0.ear"
